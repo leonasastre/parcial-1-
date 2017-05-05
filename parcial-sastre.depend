@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1493943841 source:c:\users\alumno\desktop\parcial-1\parcial-sastre\main.c
+	<stdio.h>
+	<stdlib.h>
+
